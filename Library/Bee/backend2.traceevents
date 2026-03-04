@@ -1,0 +1,271 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1772638394054440, "dur":13164, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394067615, "dur":88, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394067744, "dur":420, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394068319, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1772638394068517, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1772638394068628, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1772638394068748, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1772638394068834, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1772638394069202, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1772638394070209, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1772638394072063, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1772638394072171, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1772638394072287, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1772638394072680, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka.exe" }}
+,{ "pid":12345, "tid":0, "ts":1772638394073055, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1772638394073266, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1772638394068204, "dur":5384, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394073590, "dur":195695, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394269287, "dur":257, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394269664, "dur":1935, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1772638394068561, "dur":5038, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1772638394073602, "dur":7220, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1772638394087744, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1772638394085540, "dur":2267, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1772638394087813, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1772638394087948, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1772638394088058, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1772638394088566, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394088713, "dur":284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394088999, "dur":561, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394089561, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394089702, "dur":718, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394090422, "dur":929, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394091353, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394091494, "dur":610, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\babka\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1772638394092224, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player40c873be-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1772638394087811, "dur":4767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1772638394093051, "dur":120, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1772638394093589, "dur":169411, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1772638394267918, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1772638394267917, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1772638394268098, "dur":1144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394068620, "dur":4989, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1772638394073613, "dur":1351, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1772638394074965, "dur":5865, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1772638394080851, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1772638394083228, "dur":3540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1772638394086773, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394086770, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394087430, "dur":1928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394089426, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394089424, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394089942, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1772638394091446, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394091443, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394091965, "dur":6966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394099023, "dur":3249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394102377, "dur":4438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394106919, "dur":2250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394109283, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394111473, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394113340, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394115142, "dur":4157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394119425, "dur":3242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394122765, "dur":2216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394125056, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394127578, "dur":2388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394130110, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394132499, "dur":2322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394135262, "dur":6308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1772638394141671, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1772638394143823, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1772638394143893, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1772638394145801, "dur":123493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1772638394068661, "dur":4957, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1772638394073621, "dur":1277, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1772638394074899, "dur":300, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1772638394075200, "dur":5748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1772638394080948, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1772638394085069, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1772638394086591, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1772638394086798, "dur":3091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1772638394089960, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1772638394089957, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1772638394090103, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1772638394092157, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1772638394093174, "dur":10539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1772638394103811, "dur":3489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394107440, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394111834, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1772638394109717, "dur":2271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394112081, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394113748, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394116264, "dur":3098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394119960, "dur":3884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394123933, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394126582, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394129040, "dur":2462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394131592, "dur":3043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394134753, "dur":3231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1772638394138079, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1772638394141308, "dur":3825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1772638394145214, "dur":124062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1772638394068729, "dur":4898, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1772638394073631, "dur":1653, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1772638394075285, "dur":5551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1772638394080841, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1772638394082989, "dur":3666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1772638394086723, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1772638394087384, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1772638394089607, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1772638394090087, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1772638394093373, "dur":5487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394099086, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394102502, "dur":4237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394106831, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394109208, "dur":2528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394111842, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1772638394112007, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394113795, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394116281, "dur":3332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394119737, "dur":1943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394121839, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394124407, "dur":2663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394127223, "dur":2510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394129836, "dur":2454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394132378, "dur":2413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394134917, "dur":3449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1772638394138594, "dur":3604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1772638394142284, "dur":3725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1772638394146074, "dur":123227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394068783, "dur":4853, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394073639, "dur":1394, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394075034, "dur":5800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394080841, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1772638394083066, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1772638394087115, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1772638394087113, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1772638394087499, "dur":3204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1772638394090773, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1772638394093451, "dur":530, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394090861, "dur":3165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1772638394098458, "dur":4576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394107323, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394103130, "dur":4262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394107480, "dur":3163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394112756, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394110732, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394115874, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1772638394113644, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394116050, "dur":2712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394118862, "dur":2376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394121328, "dur":2290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394123721, "dur":2823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394126628, "dur":2243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394128959, "dur":3359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394132445, "dur":2987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394135506, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394135503, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394135616, "dur":18674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1772638394154411, "dur":114876, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394068819, "dur":4823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394073645, "dur":1549, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394075195, "dur":5637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394080866, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1772638394080841, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1772638394084147, "dur":2367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1772638394086593, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1772638394086590, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1772638394086834, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1772638394088775, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1772638394090099, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1772638394091846, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1772638394091846, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/babka.exe" }}
+,{ "pid":12345, "tid":6, "ts":1772638394091930, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka.exe" }}
+,{ "pid":12345, "tid":6, "ts":1772638394098315, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394094453, "dur":3953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394101183, "dur":116, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394098489, "dur":2823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394101471, "dur":3268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394104854, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394108672, "dur":2016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394112802, "dur":156, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394110778, "dur":2279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394113187, "dur":1748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394115031, "dur":2463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394117633, "dur":2978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394120756, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394123092, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394125463, "dur":2357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394130784, "dur":374, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394128085, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394132591, "dur":2413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394135099, "dur":3814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1772638394141455, "dur":205, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394139086, "dur":2588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1772638394141912, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1772638394142109, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1772638394145395, "dur":123874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394068867, "dur":4786, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394073655, "dur":1272, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394074928, "dur":5903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394080855, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1772638394080841, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1772638394083847, "dur":4120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1772638394088037, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1772638394088535, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1772638394091260, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394091257, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394091763, "dur":2782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394094656, "dur":3589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394098335, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394098491, "dur":2155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394100858, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394103458, "dur":3463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394107001, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394111771, "dur":188, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394108947, "dur":3025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394112059, "dur":3538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394115719, "dur":1533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394117339, "dur":3395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394120840, "dur":2774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394123705, "dur":2237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394128378, "dur":143, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394126056, "dur":2479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394128630, "dur":2169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394130891, "dur":275, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394131173, "dur":2251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394133518, "dur":2509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1772638394136143, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":7, "ts":1772638394141583, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394138791, "dur":2911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1772638394143847, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1772638394141789, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1772638394144039, "dur":125240, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394068911, "dur":4779, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394073691, "dur":1289, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394074980, "dur":5861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394080865, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1772638394080842, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1772638394084866, "dur":1848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1772638394086779, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1772638394087396, "dur":3456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1772638394090919, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1772638394093177, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394091452, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1772638394093592, "dur":4667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394098346, "dur":132, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394098485, "dur":2728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394104970, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394101476, "dur":3782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394105549, "dur":2639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394108296, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394112768, "dur":165, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394110814, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394113050, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394114563, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394120574, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1772638394116652, "dur":4048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394120963, "dur":3056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394124100, "dur":2843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394127045, "dur":2271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394129486, "dur":2382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394131955, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394134100, "dur":3130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1772638394137343, "dur":5390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1772638394142881, "dur":2906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/denis/Downloads/babka/release/babka_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1772638394145872, "dur":123395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1772638394274381, "dur":1210, "ph":"X", "name": "ProfilerWriteOutput" }
+,
