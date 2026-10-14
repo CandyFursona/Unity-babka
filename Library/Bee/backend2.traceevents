@@ -1,0 +1,256 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1791986669069849, "dur":28481, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669098343, "dur":165, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669098597, "dur":568, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669099338, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1791986669099569, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1791986669099691, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1791986669100301, "dur":157, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669100519, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669100629, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669100789, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669100889, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669100993, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669101406, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669102324, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669102665, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669103226, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669103660, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1791986669099217, "dur":5451, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669104670, "dur":268667, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669373338, "dur":254, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669373851, "dur":3707, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1791986669099393, "dur":5285, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1791986669104683, "dur":7840, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1791986669141743, "dur":992, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1791986669142744, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1791986669142892, "dur":2196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1791986669145091, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1791986669145596, "dur":197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1791986669145795, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1791986669146107, "dur":651, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1791986669146761, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1791986669146983, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playere3d2697f-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1791986669142741, "dur":4572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1791986669147677, "dur":76, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1791986669148406, "dur":217660, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1791986669372108, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1791986669372107, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1791986669372278, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1791986669099448, "dur":5239, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1791986669104690, "dur":1225, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1791986669105916, "dur":379, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1791986669106295, "dur":6251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1791986669112575, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1791986669112552, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1791986669127539, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1791986669128606, "dur":3675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669132384, "dur":1813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669134369, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669136316, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669137898, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669140868, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669143473, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669143471, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669143679, "dur":4664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669148472, "dur":4711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669153277, "dur":5411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669158779, "dur":2833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669161701, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669163318, "dur":4932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669168338, "dur":2089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669170516, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669174194, "dur":4807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669179093, "dur":4092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669183281, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669185121, "dur":1732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1791986669186946, "dur":2827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1791986669189976, "dur":3174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1791986669193242, "dur":2963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1791986669196306, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1791986669198689, "dur":174613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669099535, "dur":5161, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669104699, "dur":1309, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669106008, "dur":6534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669112562, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669125886, "dur":6663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1791986669132570, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669134399, "dur":949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669135443, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669136645, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669138521, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669141187, "dur":2407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669143666, "dur":956, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669143664, "dur":960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669149768, "dur":127, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669144642, "dur":5266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669150028, "dur":5164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669155276, "dur":5230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669160599, "dur":3160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669163855, "dur":1814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669165759, "dur":3900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669169766, "dur":3587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669173498, "dur":4182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669179575, "dur":208, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1791986669177773, "dur":2022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669179893, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669181665, "dur":2354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669184183, "dur":2353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1791986669186610, "dur":10971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1791986669197689, "dur":175615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1791986669099576, "dur":5131, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1791986669104710, "dur":1696, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1791986669106406, "dur":6143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1791986669112552, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1791986669113780, "dur":2662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1791986669116511, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1791986669117023, "dur":1109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1791986669118219, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1791986669118216, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1791986669119159, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1791986669120150, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1791986669120147, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1791986669120855, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1791986669122250, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1791986669122337, "dur":1174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1791986669123580, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669123577, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669123820, "dur":43867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669167788, "dur":2241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669170116, "dur":2496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669172703, "dur":6800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669183518, "dur":158, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1791986669179899, "dur":3791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669183827, "dur":1754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669185662, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669185659, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669185737, "dur":130103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1791986669315918, "dur":57362, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1791986669099644, "dur":5071, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1791986669104717, "dur":1689, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1791986669106407, "dur":6143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1791986669112579, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1791986669112552, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1791986669126711, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1791986669140738, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1791986669128451, "dur":12379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669140935, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669143413, "dur":760, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669143411, "dur":763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669144192, "dur":4483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669148762, "dur":6063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669154913, "dur":3729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669158749, "dur":1773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669160612, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669162541, "dur":2540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669165177, "dur":4124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669169392, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669170569, "dur":3008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669173663, "dur":3675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669177437, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669178913, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669180118, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669181710, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1791986669185852, "dur":29636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1791986669215567, "dur":157726, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1791986669099714, "dur":5014, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1791986669104731, "dur":1370, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1791986669106102, "dur":6443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1791986669112582, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1791986669112552, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1791986669127360, "dur":24099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1791986669151560, "dur":2493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669154182, "dur":5223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669159498, "dur":2755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669162375, "dur":2542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669165015, "dur":4026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669169127, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669171477, "dur":2607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669174173, "dur":4365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669179724, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1791986669178646, "dur":1144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669179878, "dur":6268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1791986669186228, "dur":16215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1791986669202528, "dur":170749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1791986669099769, "dur":4977, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1791986669104749, "dur":1300, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1791986669106050, "dur":6502, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1791986669112552, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1791986669114591, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1791986669116359, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669116356, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669116479, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669118155, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669118152, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669119135, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669120094, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1791986669120210, "dur":1639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1791986669121935, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669121932, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669122112, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1791986669123331, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f3\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669123328, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669123834, "dur":1121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669125050, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":7, "ts":1791986669125049, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka.exe" }}
+,{ "pid":12345, "tid":7, "ts":1791986669125137, "dur":1693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka.exe" }}
+,{ "pid":12345, "tid":7, "ts":1791986669128032, "dur":3607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669131762, "dur":2022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669133985, "dur":1054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669135135, "dur":1246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669136479, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669138120, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669139537, "dur":1652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669141281, "dur":2840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669144234, "dur":700, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\denis\\Downloads\\Unity-babka-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669144232, "dur":704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669144954, "dur":4845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669149906, "dur":4909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669154905, "dur":4582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669159582, "dur":5511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669165210, "dur":3608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669168914, "dur":1383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669170373, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669172694, "dur":4839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669177621, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669178590, "dur":1260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669180004, "dur":6515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1791986669186603, "dur":5723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1791986669192458, "dur":1825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1791986669194393, "dur":6004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1791986669200483, "dur":172811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1791986669099807, "dur":4945, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1791986669104752, "dur":1298, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1791986669106050, "dur":6498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1791986669112552, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1791986669113938, "dur":2362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1791986669116373, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1791986669116481, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1791986669118162, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1791986669119187, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1791986669120125, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1791986669120847, "dur":954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1791986669121925, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1791986669122052, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1791986669123318, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1791986669123970, "dur":1013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1791986669125064, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/babaka V1.1.1/babka_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1791986669125884, "dur":20976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1791986669146979, "dur":5788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669152865, "dur":1227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669154187, "dur":1016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669155291, "dur":6265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669161654, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669163028, "dur":4708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669167872, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669170225, "dur":1881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669172210, "dur":2601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669174958, "dur":3992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669179034, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669181358, "dur":5856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1791986669187324, "dur":3984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1791986669191495, "dur":2398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1791986669193988, "dur":5046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/babaka V1.1.1/babka_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1791986669199127, "dur":174174, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1791986669383258, "dur":2040, "ph":"X", "name": "ProfilerWriteOutput" }
+,

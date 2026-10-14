@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denis\\babka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\timescale\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timescale\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|c:\\users\\denis\\babka\\assets\\scripts\\player\\fov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|c:\\users\\denis\\babka\\assets\\scripts\\player\\camlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\camlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|c:\\users\\denis\\babka\\assets\\scripts\\objects\\useitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\useitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|c:\\users\\denis\\babka\\assets\\scripts\\objects\\pickupplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\pickupplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|c:\\users\\denis\\babka\\assets\\scripts\\objects\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\fall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\fall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\escape\\padlakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\escape\\padlakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\escape\\nippers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\escape\\nippers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\escape\\masterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\escape\\masterkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\objects\\escape\\derevyshka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\escape\\derevyshka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|c:\\users\\denis\\babka\\assets\\scripts\\menu\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\menu\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\granny\\navagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\granny\\navagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\granny\\killing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\granny\\killing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\audio\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|C:\\Users\\denis\\babka\\assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2693D8-3D13-456A-D2FD-C3C7A894A09C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fall.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\Fall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\Fall.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\Fall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\Fall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CamLook.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Player\\CamLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CamLook.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Player\\CamLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CamLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:40:44.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseItem.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\UseItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\UseItem.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\UseItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\UseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:40:41.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PickupPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:40:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickUpItem.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\PickUpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\PickUpItem.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\PickUpItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\PickUpItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:40:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ui.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\menu\\Ui.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\Ui.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\menu\\Ui.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menu\\Ui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:40:13.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\menu\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\StartGame.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\menu\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menu\\StartGame.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Derevyshka.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\Derevyshka.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\escape\\Derevyshka.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\Derevyshka.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\escape\\Derevyshka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavAgent.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Granny\\NavAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Granny\\NavAgent.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Granny\\NavAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Granny\\NavAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fov.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Player\\fov.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\fov.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Player\\fov.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\fov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pause.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Timescale\\Pause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timescale\\Pause.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Timescale\\Pause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timescale\\Pause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "killing.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Granny\\killing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Granny\\killing.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\Granny\\killing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Granny\\killing.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\game\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\Game.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\game\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\Game.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "music.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\audio\\music.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\audio\\music.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\audio\\music.cs",
+              "RelativeToolTip": "Assets\\Scripts\\audio\\music.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "masterkey.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\masterkey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\escape\\masterkey.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\masterkey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\escape\\masterkey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nippers.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\nippers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\escape\\nippers.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\nippers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\escape\\nippers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "padlakey.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\padlakey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\escape\\padlakey.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\escape\\padlakey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\escape\\padlakey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\MetaData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\MetaData.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\MetaData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\MetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\PickUp.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\objects\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\PickUp.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "audiomanager.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\babka\\Assets\\Scripts\\audio\\audiomanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\audio\\audiomanager.cs",
+              "ToolTip": "C:\\Users\\denis\\babka\\Assets\\Scripts\\audio\\audiomanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\audio\\audiomanager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:32:39.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
