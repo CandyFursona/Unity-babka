@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|c:\\users\\denis\\downloads\\unity-babka-main\\assets\\scripts\\granny\\navagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\granny\\navagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|c:\\users\\denis\\downloads\\unity-babka-main\\assets\\scripts\\menu\\settings\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\settings\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|c:\\users\\denis\\downloads\\unity-babka-main\\assets\\scripts\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|C:\\Users\\denis\\Downloads\\Unity-babka-main\\assets\\scripts\\objects\\fall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\fall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|C:\\Users\\denis\\Downloads\\Unity-babka-main\\assets\\scripts\\objects\\useguiolitine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\useguiolitine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|C:\\Users\\denis\\Downloads\\Unity-babka-main\\assets\\scripts\\objects\\pickupplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\pickupplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|c:\\users\\denis\\downloads\\unity-babka-main\\assets\\scripts\\objects\\escape\\guilotine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\escape\\guilotine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|c:\\users\\denis\\downloads\\unity-babka-main\\assets\\scripts\\objects\\teleportoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\teleportoncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|c:\\users\\denis\\downloads\\unity-babka-main\\assets\\scripts\\objects\\escape\\kolodecreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\escape\\kolodecreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|C:\\Users\\denis\\Downloads\\Unity-babka-main\\assets\\scripts\\objects\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|C:\\Users\\denis\\Downloads\\Unity-babka-main\\assets\\scripts\\objects\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|C:\\Users\\denis\\Downloads\\Unity-babka-main\\assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF8087-9F0C-9BEA-8957-DF73B2610274}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\game\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\Game.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\game\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\Game.cs",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAQwM0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:07:38.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\menu\\settings\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\settings\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\menu\\settings\\GameConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menu\\settings\\GameConfig.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAtwCIBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:58:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guilotine.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\escape\\Guilotine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\escape\\Guilotine.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\escape\\Guilotine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\escape\\Guilotine.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:46:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KolodecReal.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\escape\\KolodecReal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\escape\\KolodecReal.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\escape\\KolodecReal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\escape\\KolodecReal.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:46:24.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeleportOnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\TeleportOnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\TeleportOnCollision.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\TeleportOnCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\TeleportOnCollision.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PickupPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\PickupPlayer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAhwFgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\PickUp.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\PickUp.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PickUpItem.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\PickUpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\PickUpItem.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\PickUpItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\PickUpItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavAgent.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\Granny\\NavAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Granny\\NavAgent.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\Granny\\NavAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Granny\\NavAgent.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowN8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fall.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\Fall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\Fall.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\Fall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\Fall.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseGuiolitine.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\UseGuiolitine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\objects\\UseGuiolitine.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\objects\\UseGuiolitine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\objects\\UseGuiolitine.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "audiomanager.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\audio\\audiomanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\audio\\audiomanager.cs",
+              "ToolTip": "C:\\Users\\denis\\Downloads\\Unity-babka-main\\Assets\\Scripts\\audio\\audiomanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\audio\\audiomanager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:41:34.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
